@@ -1,0 +1,3 @@
+public enum ARTIFACTS {
+    WIZARDHAT, SUTECASE, ANTLION
+}

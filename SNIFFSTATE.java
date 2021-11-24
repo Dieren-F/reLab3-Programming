@@ -1,0 +1,3 @@
+public enum SNIFFSTATE {
+    SNORESLEEP, SLEEP, FAKESLEEP
+}
