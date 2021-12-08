@@ -1,7 +1,4 @@
 public class MummyDol implements Move{
-    public MummyDol() {
-
-    }
     public void OneAction(Integer Iter) {
         Move sun = new Move() {
             @Override
